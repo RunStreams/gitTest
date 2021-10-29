@@ -9,5 +9,6 @@ public class HelloGit0625 {
     public static void main(String[] args) {
         System.out.println("hello git0625");
         System.out.println("hello git first");
+        System.out.println("hello master");
     }
 }
