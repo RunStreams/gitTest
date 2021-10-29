@@ -12,5 +12,6 @@ public class HelloGit0625 {
         System.out.println("hello master");
         System.out.println("hello hot-fix");
         System.out.println("test1");
+        System.out.println("push test");
     }
 }
