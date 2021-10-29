@@ -10,5 +10,6 @@ public class HelloGit0625 {
         System.out.println("hello git0625");
         System.out.println("hello git first");
         System.out.println("hello master");
+        System.out.println("hello hot-fix");
     }
 }
